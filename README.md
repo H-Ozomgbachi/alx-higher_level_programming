@@ -1,1 +1,1 @@
-This repository covers my python projects at ALX Africa where I am studying Software Engineering
+Python Projects at ALX Holberton School.
