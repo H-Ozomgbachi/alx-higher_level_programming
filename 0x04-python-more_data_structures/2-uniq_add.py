@@ -2,12 +2,11 @@
 
 def uniq_add(my_list=[]):
 	"""
-	adds all unique integers in a list
 	Args:
-		my_list - given list
-	Return:
-		Data - sum
+		my_list: given list
+	Returns:
+		int: sum
 	"""
-
 	x = list(set(my_list))
 	return sum(x)
+
